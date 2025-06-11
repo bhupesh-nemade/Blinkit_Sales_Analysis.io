@@ -1,11 +1,3 @@
-Skip to content
-Chat history
-
-You said:
-Uploaded image
-i want to add this project to github so provide me readme file for this
-ChatGPT said:
-Here’s a README.md file you can use for uploading your Blinkit Power BI Dashboard project to GitHub:
 
 # 🛒 Blinkit Sales Dashboard (Power BI)
 
